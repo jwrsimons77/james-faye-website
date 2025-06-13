@@ -50,9 +50,9 @@ export default function Now() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">What I'm Doing Now</h1>
+            <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">What I&apos;m Doing Now</h1>
             <p className="text-xl text-gray-600 max-w-2xl">
-              A snapshot of what I'm currently focused on. Last updated: January 2024
+              A snapshot of what I&apos;m currently focused on. Last updated: January 2024
             </p>
           </motion.div>
         </div>
