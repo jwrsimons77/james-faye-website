@@ -192,7 +192,7 @@ export default function Home() {
                 </div>
                 <p className="text-gray-600 mb-6">
                   I currently lead product updates and roadmap communication for SmartAgent and SmartPCI at Gamma — 
-                  two cloud-native platforms used in high-volume contact centres. I've launched AI tools using AWS Bedrock 
+                  two cloud-native platforms used in high-volume contact centres. I&apos;ve launched AI tools using AWS Bedrock 
                   and a PCI-DSS Level 1 payment solution on Amazon Connect.
                 </p>
                 
@@ -433,7 +433,7 @@ export default function Home() {
           >
             <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">Get In Touch</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Interested in working together or just want to say hello? I'd love to hear from you.
+              Interested in working together or just want to say hello? I&apos;d love to hear from you.
             </p>
           </motion.div>
 

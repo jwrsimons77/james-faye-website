@@ -9,7 +9,7 @@ export default function Now() {
     {
       icon: <Briefcase className="w-6 h-6" />,
       title: "Leading Product at Gamma",
-      description: "Currently focused on launching new AI features for SmartAgent and expanding SmartPCI's payment capabilities. Working on reducing customer onboarding time and improving agent productivity through ML-powered insights.",
+      description: "Currently focused on launching new AI features for SmartAgent and expanding SmartPCI&apos;s payment capabilities. Working on reducing customer onboarding time and improving agent productivity through ML-powered insights.",
       status: "Full-time",
       color: "bg-blue-100 text-blue-800"
     },
@@ -30,7 +30,7 @@ export default function Now() {
     {
       icon: <BookOpen className="w-6 h-6" />,
       title: "Learning & Reading",
-      description: "Currently reading 'Inspired' by Marty Cagan and diving deeper into AWS Bedrock capabilities. Exploring how to better integrate AI into product discovery processes.",
+      description: "Currently reading &apos;Inspired&apos; by Marty Cagan and diving deeper into AWS Bedrock capabilities. Exploring how to better integrate AI into product discovery processes.",
       status: "Learning",
       color: "bg-green-100 text-green-800"
     }
@@ -69,7 +69,7 @@ export default function Now() {
           >
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Current Focus Areas</h2>
             <p className="text-lg text-gray-600 max-w-3xl">
-              I believe in being intentional about where I spend my time and energy. Here's what's 
+              I believe in being intentional about where I spend my time and energy. Here&apos;s what&apos;s 
               currently on my radar, both professionally and personally.
             </p>
           </motion.div>
@@ -120,9 +120,9 @@ export default function Now() {
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Why This Page Exists</h3>
                 <p className="text-gray-700 leading-relaxed mb-4">
-                  Inspired by Derek Sivers' "now page" movement, I maintain this page to stay 
+                  Inspired by Derek Sivers&apos; &ldquo;now page&rdquo; movement, I maintain this page to stay 
                   accountable to myself and transparent with others about my current priorities. 
-                  It helps me say no to things that don't align with what I'm focused on right now.
+                  It helps me say no to things that don&apos;t align with what I&apos;m focused on right now.
                 </p>
                 <p className="text-gray-700 leading-relaxed">
                   Life moves fast in product management and building side projects. This page is 
